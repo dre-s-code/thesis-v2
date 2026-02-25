@@ -1,0 +1,5 @@
+{
+  "name": "WRF.ITERA - Skripsi Andreas Boni",
+  "description": "Interactive summary of thesis on WRF model accuracy using GFS and ERA5 data with ensemble techniques for rainfall prediction at ITERA.",
+  "requestFramePermissions": []
+}
